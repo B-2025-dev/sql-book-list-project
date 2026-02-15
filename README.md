@@ -1,2 +1,21 @@
 # sql-book-list-project
-Basic SQL project demonstrating table creation, inserts and queries
+## Overview
+This project demonstrates basic SQL database operations including:
+
+- Creating a table
+- Inserting data
+- Counting records
+- Selecting all records
+
+## Technologies Used
+- SQL
+- SQLite
+
+## Queries Included
+- CREATE TABLE
+- INSERT INTO
+- SELECT COUNT(*)
+- SELECT *
+
+## Author
+Buhle
